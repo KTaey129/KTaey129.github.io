@@ -30,3 +30,6 @@ assets/js/dist
 *~
 .DS_Store
 Thumbs.db
+
+# Private planning notes (not for public repo)
+BLOG_CONTEXT.md
