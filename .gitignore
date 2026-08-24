@@ -33,3 +33,7 @@ Thumbs.db
 
 # Private planning notes (not for public repo)
 BLOG_CONTEXT.md
+00-MASTER-PLAN.md
+01-finance-rag.md
+02-power-pipeline.md
+03-fab-sensor-lakehouse.md
